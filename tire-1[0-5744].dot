@@ -1,0 +1,40 @@
+digraph {
+	node [shape=plaintext, fontsize=16 ]
+	a[label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="0" COLOR="#ffffff">
+	<TR>
+		<TD align="center" width="30" height="30" fixedsize="true" BGCOLOR="#D1F2EB">&#128660;</TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white">&#11106;</TD>
+		<TD align="center" width="30" height="30" fixedsize="true" BGCOLOR="#D1F2EB"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white">&#11106;</TD>
+		<TD align="center" width="30" height="30" fixedsize="true" BGCOLOR="#D1F2EB"></TD>
+	</TR>
+	<TR>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"><FONT COLOR="gray"> &#11107;</FONT></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"><FONT COLOR="gray">&#11113;</FONT></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white">&#11113;</TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+	</TR>
+	<TR>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="#FADBD8"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white">&#11106;</TD>
+		<TD align="center" width="30" height="30" fixedsize="true" BGCOLOR="#D1F2EB"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+	</TR>
+	<TR>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"><FONT COLOR="gray"> &#11107;</FONT></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white">&#11113;</TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+	</TR>
+	<TR>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="#FADBD8">&#9873;</TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+		<TD width="30" height="30" fixedsize="true" BGCOLOR="white"></TD>
+	</TR>
+	</TABLE>>];
+}

@@ -1,0 +1,416 @@
+/home/milton/Documentos/I-dual/problems/4_5.json
+Academic license - for non-commercial use only
+#STATES
+20
+#LAMBDA
+0.1
+#TIME
+0.008105000000000001
+/home/milton/Documentos/I-dual/problems/4_15.json
+Academic license - for non-commercial use only
+#STATES
+60
+#LAMBDA
+0.1
+#TIME
+0.008623000000000006
+/home/milton/Documentos/I-dual/problems/4_25.json
+Academic license - for non-commercial use only
+#STATES
+100
+#LAMBDA
+0.1
+#TIME
+0.02055499999999999
+/home/milton/Documentos/I-dual/problems/4_35.json
+Academic license - for non-commercial use only
+#STATES
+140
+#LAMBDA
+0.1
+#TIME
+0.026925000000000004
+/home/milton/Documentos/I-dual/problems/4_45.json
+Academic license - for non-commercial use only
+#STATES
+180
+#LAMBDA
+0.1
+#TIME
+0.035241999999999996
+/home/milton/Documentos/I-dual/problems/4_55.json
+Academic license - for non-commercial use only
+#STATES
+220
+#LAMBDA
+0.1
+#TIME
+0.04311599999999999
+/home/milton/Documentos/I-dual/problems/4_65.json
+Academic license - for non-commercial use only
+#STATES
+260
+#LAMBDA
+0.1
+#TIME
+0.05167099999999997
+/home/milton/Documentos/I-dual/problems/4_75.json
+Academic license - for non-commercial use only
+#STATES
+300
+#LAMBDA
+0.1
+#TIME
+0.07501999999999998
+/home/milton/Documentos/I-dual/problems/4_85.json
+Academic license - for non-commercial use only
+#STATES
+340
+#LAMBDA
+0.1
+#TIME
+0.06327000000000005
+/home/milton/Documentos/I-dual/problems/4_95.json
+Academic license - for non-commercial use only
+#STATES
+380
+#LAMBDA
+0.1
+#TIME
+0.07410699999999998
+/home/milton/Documentos/I-dual/problems/4_105.json
+Academic license - for non-commercial use only
+#STATES
+420
+#LAMBDA
+0.1
+#TIME
+0.07621499999999992
+/home/milton/Documentos/I-dual/problems/4_115.json
+Academic license - for non-commercial use only
+#STATES
+460
+#LAMBDA
+0.1
+#TIME
+0.08538600000000007
+/home/milton/Documentos/I-dual/problems/4_125.json
+Academic license - for non-commercial use only
+#STATES
+500
+#LAMBDA
+0.1
+#TIME
+0.09592199999999995
+/home/milton/Documentos/I-dual/problems/4_135.json
+Academic license - for non-commercial use only
+#STATES
+540
+#LAMBDA
+0.1
+#TIME
+0.09205399999999997
+/home/milton/Documentos/I-dual/problems/4_145.json
+Academic license - for non-commercial use only
+#STATES
+580
+#LAMBDA
+0.1
+#TIME
+0.11947700000000006
+/home/milton/Documentos/I-dual/problems/4_155.json
+Academic license - for non-commercial use only
+#STATES
+620
+#LAMBDA
+0.1
+#TIME
+0.13568999999999998
+/home/milton/Documentos/I-dual/problems/4_165.json
+Academic license - for non-commercial use only
+#STATES
+660
+#LAMBDA
+0.1
+#TIME
+0.1304129999999999
+/home/milton/Documentos/I-dual/problems/4_175.json
+Academic license - for non-commercial use only
+#STATES
+700
+#LAMBDA
+0.1
+#TIME
+0.12481399999999998
+/home/milton/Documentos/I-dual/problems/4_185.json
+Academic license - for non-commercial use only
+#STATES
+740
+#LAMBDA
+0.1
+#TIME
+0.13488100000000003
+/home/milton/Documentos/I-dual/problems/4_195.json
+Academic license - for non-commercial use only
+#STATES
+780
+#LAMBDA
+0.1
+#TIME
+0.14342300000000008
+/home/milton/Documentos/I-dual/problems/4_205.json
+Academic license - for non-commercial use only
+#STATES
+820
+#LAMBDA
+0.1
+#TIME
+0.1485320000000001
+/home/milton/Documentos/I-dual/problems/4_215.json
+Academic license - for non-commercial use only
+#STATES
+860
+#LAMBDA
+0.1
+#TIME
+0.17948399999999998
+/home/milton/Documentos/I-dual/problems/4_225.json
+Academic license - for non-commercial use only
+#STATES
+900
+#LAMBDA
+0.1
+#TIME
+0.18157400000000012
+/home/milton/Documentos/I-dual/problems/4_235.json
+Academic license - for non-commercial use only
+#STATES
+940
+#LAMBDA
+0.1
+#TIME
+0.17490699999999992
+/home/milton/Documentos/I-dual/problems/4_245.json
+Academic license - for non-commercial use only
+#STATES
+980
+#LAMBDA
+0.1
+#TIME
+0.1938040000000001
+/home/milton/Documentos/I-dual/problems/4_255.json
+Academic license - for non-commercial use only
+#STATES
+1020
+#LAMBDA
+0.1
+#TIME
+0.20613100000000006
+/home/milton/Documentos/I-dual/problems/4_265.json
+Academic license - for non-commercial use only
+#STATES
+1060
+#LAMBDA
+0.1
+#TIME
+0.2039789999999999
+/home/milton/Documentos/I-dual/problems/4_275.json
+Academic license - for non-commercial use only
+#STATES
+1100
+#LAMBDA
+0.1
+#TIME
+0.2252270000000003
+/home/milton/Documentos/I-dual/problems/4_285.json
+Academic license - for non-commercial use only
+#STATES
+1140
+#LAMBDA
+0.1
+#TIME
+0.2273120000000004
+/home/milton/Documentos/I-dual/problems/4_295.json
+Academic license - for non-commercial use only
+#STATES
+1180
+#LAMBDA
+0.1
+#TIME
+0.24192999999999998
+/home/milton/Documentos/I-dual/problems/4_305.json
+Academic license - for non-commercial use only
+#STATES
+1220
+#LAMBDA
+0.1
+#TIME
+0.2624599999999999
+/home/milton/Documentos/I-dual/problems/4_315.json
+Academic license - for non-commercial use only
+#STATES
+1260
+#LAMBDA
+0.1
+#TIME
+0.2689440000000003
+/home/milton/Documentos/I-dual/problems/4_325.json
+Academic license - for non-commercial use only
+#STATES
+1300
+#LAMBDA
+0.1
+#TIME
+0.2452639999999997
+/home/milton/Documentos/I-dual/problems/4_335.json
+Academic license - for non-commercial use only
+#STATES
+1340
+#LAMBDA
+0.1
+#TIME
+0.2726110000000004
+/home/milton/Documentos/I-dual/problems/4_345.json
+Academic license - for non-commercial use only
+#STATES
+1380
+#LAMBDA
+0.1
+#TIME
+0.275366
+/home/milton/Documentos/I-dual/problems/4_355.json
+Academic license - for non-commercial use only
+#STATES
+1420
+#LAMBDA
+0.1
+#TIME
+0.27699799999999986
+/home/milton/Documentos/I-dual/problems/4_365.json
+Academic license - for non-commercial use only
+#STATES
+1460
+#LAMBDA
+0.1
+#TIME
+0.2770030000000001
+/home/milton/Documentos/I-dual/problems/4_375.json
+Academic license - for non-commercial use only
+#STATES
+1500
+#LAMBDA
+0.1
+#TIME
+0.2966879999999996
+/home/milton/Documentos/I-dual/problems/4_385.json
+Academic license - for non-commercial use only
+#STATES
+1540
+#LAMBDA
+0.1
+#TIME
+0.29734199999999955
+/home/milton/Documentos/I-dual/problems/4_395.json
+Academic license - for non-commercial use only
+#STATES
+1580
+#LAMBDA
+0.1
+#TIME
+0.30795700000000004
+/home/milton/Documentos/I-dual/problems/4_405.json
+Academic license - for non-commercial use only
+#STATES
+1620
+#LAMBDA
+0.1
+#TIME
+0.30055999999999994
+/home/milton/Documentos/I-dual/problems/4_415.json
+Academic license - for non-commercial use only
+#STATES
+1660
+#LAMBDA
+0.1
+#TIME
+0.3197490000000007
+/home/milton/Documentos/I-dual/problems/4_425.json
+Academic license - for non-commercial use only
+#STATES
+1700
+#LAMBDA
+0.1
+#TIME
+0.30038000000000054
+/home/milton/Documentos/I-dual/problems/4_435.json
+Academic license - for non-commercial use only
+#STATES
+1740
+#LAMBDA
+0.1
+#TIME
+0.32420000000000027
+/home/milton/Documentos/I-dual/problems/4_445.json
+Academic license - for non-commercial use only
+#STATES
+1780
+#LAMBDA
+0.1
+#TIME
+0.32437999999999967
+/home/milton/Documentos/I-dual/problems/4_455.json
+Academic license - for non-commercial use only
+#STATES
+1820
+#LAMBDA
+0.1
+#TIME
+0.37938399999999994
+/home/milton/Documentos/I-dual/problems/4_465.json
+Academic license - for non-commercial use only
+#STATES
+1860
+#LAMBDA
+0.1
+#TIME
+0.3367040000000001
+/home/milton/Documentos/I-dual/problems/4_475.json
+Academic license - for non-commercial use only
+#STATES
+1900
+#LAMBDA
+0.1
+#TIME
+0.35352400000000017
+/home/milton/Documentos/I-dual/problems/4_485.json
+Academic license - for non-commercial use only
+#STATES
+1940
+#LAMBDA
+0.1
+#TIME
+0.3602680000000005
+/home/milton/Documentos/I-dual/problems/4_495.json
+Academic license - for non-commercial use only
+#STATES
+1980
+#LAMBDA
+0.1
+#TIME
+0.3722529999999997
+/home/milton/Documentos/I-dual/problems/4_505.json
+Academic license - for non-commercial use only
+#STATES
+2020
+#LAMBDA
+0.1
+#TIME
+0.3957620000000004
+/home/milton/Documentos/I-dual/problems/4_515.json
+Academic license - for non-commercial use only
+#STATES
+2060
+#LAMBDA
+0.1
+#TIME
+0.37956699999999977
